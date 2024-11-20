@@ -1,0 +1,25 @@
+#map{
+    height: 500px;
+    width: 600px;
+}
+#botao{
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #007bff; /* Cor de fundo do botão */
+    color: #fff; /* Cor do texto do botão */
+    border: none; /* Remova a borda do botão */
+    border-radius: 5px; /* Arredonde os cantos do botão */
+    cursor: pointer; /* Transforme o cursor em uma mãozinha ao passar o mouse */
+    text-decoration: none; /* Remova sublinhado padrão para links */
+    margin-left: 55px;
+    margin-top: 0px;
+}
+body {
+    background-color: #f0f0f0; /* Define uma cor de fundo */
+   
+    background-size: cover; /* Redimensiona a imagem para cobrir todo o elemento */
+    background-repeat: no-repeat; /* Evita que a imagem se repita */
+    background-position: center center; /* Centraliza a imagem */
+    /* Você pode combinar várias propriedades para obter o efeito desejado */
+  }
